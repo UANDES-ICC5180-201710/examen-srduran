@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Rails commands called
+        rails generate scaffold User first_name:string last_name:string
+        is_staff:boolean
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version: 5.0.2
 
 * System dependencies
 
